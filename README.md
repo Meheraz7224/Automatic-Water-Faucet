@@ -334,7 +334,8 @@ The following parameters should be measured using the actual prototype.
 The following image shows the physical prototype of the automatic faucet system.
 
 <p align="center">
-  <img src="./assets/image.png" alt="Energy-Efficient Automatic Faucet Prototype" width="350">
+  <img src="assets/WhatsApp Image 2026-09-29 at 11.34.58 AM.jpeg" alt="Energy-Efficient Automatic Faucet Prototype" width="350">
+  <img src="assets/WhatsApp Image 2026-09-29 at 11.34.22 AM.jpeg" alt="Energy-Efficient Automatic Faucet Prototype" width="350">
 </p>
 
 ### Prototype Includes
@@ -383,40 +384,6 @@ Valve Deactivated
       ▼
 Water Stops
 ```
-
-### ▶️ Working Video
-
-<p align="center">
-  <a href="https://youtu.be/UKfMvYvFGGo?si=ElwOWZ2UeddB6o7C">
-    <img src="https://img.youtube.com/vi/UKfMvYvFGGo/maxresdefault.jpg" alt="Working Prototype Demonstration" width="500">
-  </a>
-</p>
-
-<p align="center">
-  <b>▶️ Click the image above to watch the working prototype demonstration on YouTube.</b>
-</p>
-
-### Local Prototype Video
-
-A local copy of the demonstration video is also included in the repository:
-
-```text
-assets/add-2.mp4
-```
-
-<p align="center">
-  <video src="./assets/add-2.mp4" controls width="350">
-    Your browser does not support embedded videos.
-    <a href="./assets/add-2.mp4">Watch the workable prototype demonstration</a>
-  </video>
-</p>
-
-**YouTube:**
-https://youtu.be/UKfMvYvFGGo?si=ElwOWZ2UeddB6o7C
-
----
-
-
 
 # 🚀 Future Improvements
 
