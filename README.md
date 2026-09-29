@@ -335,7 +335,7 @@ The following image shows the physical prototype of the automatic faucet system.
 
 <p align="center">
   <img src="assets/WhatsApp Image 2026-09-29 at 11.34.58 AM.jpeg" alt="Energy-Efficient Automatic Faucet Prototype" width="350">
-  <img src="assets/WhatsApp Image 2026-09-29 at 11.34.22 AM.jpeg" alt="Energy-Efficient Automatic Faucet Prototype" width="350">
+ 
 </p>
 
 ### Prototype Includes
